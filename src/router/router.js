@@ -1,4 +1,4 @@
-import Main from "@/pages/MainPage"
+
 import {createRouter, createWebHistory} from "vue-router"
 import PostPage from "@/pages/PostPage"
 import AboutPage from "@/pages/AboutPage"
